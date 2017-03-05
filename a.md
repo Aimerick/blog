@@ -1,5 +1,5 @@
 ##从URL输入到页面展现
-[内容链接](http://www.jianshu.com/p/98d74c032a99)
+>[内容链接](http://www.jianshu.com/p/98d74c032a99)
 
 ##vim的基本命令
 [vim常用命令总结](http://pizn.github.io/2012/03/03/vim-commonly-used-command.html)
@@ -12,9 +12,9 @@
 | S | 删除光标所在的一行，光标还在当行，不同于 dd | ---  |
 
 
-> 引用
 
-| 表头 | 表头 | 表头 |
+
+| 命令 | 作用 |  |
 | --- | --- | ---  |
 | 内容 | 内容 | 内容 |
 | 内容 | 内容 | 内容 |
