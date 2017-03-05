@@ -5,7 +5,7 @@
 >[vim常用命令总结](http://pizn.github.io/2012/03/03/vim-commonly-used-command.html)
 
 
--例如：
+例如：
 
 
 | 命令 | 作用 |  
